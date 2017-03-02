@@ -1,10 +1,10 @@
 # Goal-Directed-Exploration-and-Mapping-of-a-2D-Maze
 
-**Project Description
+<b> Project Description </b>
 
 This project takes inspiration from Micromouse competitions, wherein a robot mouse is tasked with plotting a path from a corner of the maze to its center. The robot mouse may make multiple runs in a given maze. In the first run, the robot mouse tries to map out the maze to not only find the center, but also figure out the best paths to the center. In subsequent runs, the robot mouse attempts to reach the center in the fastest time possible, using what it has previously learned. <a href="https://www.youtube.com/watch?v%3D0JCsRpcrk3s&sa=D&ust=1488469445412000&usg=AFQjCNEEp7Wo0EO7LorrC7c_PDO6_6QgVg">This video</a>is an example of a Micromouse competition. In this project, a virtual robot navigates a virtual maze. A simplified model of the world is provided along with specifications for the maze and robot; the goal is to obtain the fastest times possible in a series of test mazes.
 
-**Project Requirements
+<b> Project Requirements </b>
 ___________________________________________________________________________________________________________
 
 Python 2.7.X
